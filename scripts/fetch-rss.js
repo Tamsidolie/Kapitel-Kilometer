@@ -19,7 +19,8 @@ async function main() {
     links: {
       spotify: "",
       apple: "",
-      pocketcasts: ""
+      pocketcasts: "",
+      amazon: ""
     }
   }));
 

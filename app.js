@@ -44,6 +44,9 @@ async function loadEpisodes() {
             <a class="platform-link" href="${episode.links?.pocketcasts || episode.link}" target="_blank" rel="noopener">
               Pocket Casts
             </a>
+            <a class="platform-link" href="${episode.links?.amazon || episode.link}" target="_blank" rel="noopener">
+              Amazon Music
+            </a>
           </div>
         </article>
       `;
