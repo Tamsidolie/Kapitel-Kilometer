@@ -1,8 +1,110 @@
-{
-  "guid": "episode-42",
-  "links": {
-    "spotify": "https://open.spotify.com/episode/...",
-    "apple": "https://podcasts.apple.com/...",
-    "pocketcasts": "https://pca.st/..."
+[
+  {
+    "title": "1.7 Flammender Zorn - Die Asche ",
+    "description": "Fast so schlimm wie in Distrikt 12 geht es in England zu, denn Alexandra hat sich wenige Wochen vor dem Halbmarathon verletzt. :( \nWas lernen wir daraus: richtiges Warm-Up lohnt sich!\nIn Panem wärmen unsere Freunde sich für den Krieg auf und versuchen den Spotttölpel für die Rebellion zu gewinnen. \nSonst passiert nicht ganz so viel, wird das Buch noch Fahrt aufnehmen? Findet es mit uns heraus in den nächsten Wochen bei Kapitel und Kilometer.",
+    "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-7-Flammender-Zorn---Die-Asche-e3ohjmb",
+    "guid": "372c2217-b854-4408-8185-6935a2f21c8e",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.6 Gefährliche Liebe - Der Feind",
+    "description": "Während Alexandra einen gemütlichen Buchurlaub macht, müssen die Tribute wieder in die Arena! Schade für sie, aber spannend für uns. \nTamara freut sich über Alexandras 180° Drehung bezüglich Finnick, fast soviel wie über ihre neuen Laufschuhe.\nWas es mit Indiana Jones, Kühlschränken in der Wüste und Clubs in Waschmaschinen auf sich hat, lernt ihr in der letzten Folge zum zweiten Buch. Ticktack!",
+    "pubDate": "Wed, 02 Sep 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-6-Gefhrliche-Liebe---Der-Feind-e3o6lh2",
+    "guid": "442e2438-204a-426d-95de-52c2f01ae3b0",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.5 Gefährliche Liebe - Das Jubiläum",
+    "description": "Die Hunger Games gehen in die nächste Runde und das Jubel-Jubiläum steht bevor! \nBei uns gibt es auch Neuigkeiten: Neue Schuhe, neue Laufhosen und neue Meinungen bezüglich Pausen gönnen.\nWie der Zaun um Distrikt 12, stehen auch wir langsam unter Strom, weil der Halbmarathon immer näher rückt.\nBegleitet uns gerne auf unserer Reise dahin und lest mit uns bis nächste Woche den Höhepunkt aller Bücher (aus Tamaras Sichtweise), wenn es endlich wieder in die Arena geht!",
+    "pubDate": "Wed, 26 Aug 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-5-Gefhrliche-Liebe---Das-Jubilum-e3ns7jp",
+    "guid": "2b2e56ed-cafb-4c4e-b631-73a469e958d2",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.4 Gefährliche Liebe - Der Funke",
+    "description": "Das zweite Buch der Tribute von Panem Reihe geht los!\n Damit steht die Tour der Sieger an, wovon Alexandra dachte, dass sie das ganze Buch füllt. In dieser Folge hören wir aber, dass es eigentlich doch um etwas ganz Anderes geht. \nAußerdem feiern wir den längsten Longrun in der Halbmarathonvorbereitung, verabschieden uns von der alten Trinkweste und rätseln über Fueling Strategien nach.\nWenn euch Laufen oder Lesen interessiert, hört gern rein und empfiehlt uns auch gerne an Freund:innen weiter! ♡",
+    "pubDate": "Wed, 19 Aug 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-4-Gefhrliche-Liebe---Der-Funke-e3ngrp3",
+    "guid": "68af4967-a2d3-44b3-9a3e-fdf2f211f56c",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.3 Tödliche Spiele - Der Sieger",
+    "description": "Die Ereignisse in der Arena spitzen sich zu! Wer wird die 74. Hungerspiele gewinnen? \nWir beenden das erste Buch und erfahren wie es Alexandra gefallen hat. Außerdem bewegen wir uns in schnellen Schritten auf den Halbmarathon zu. \nOb wir konsequent das Training durchgezogen haben, lernt ihr in dieser Folge! :)",
+    "pubDate": "Wed, 12 Aug 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-3-Tdliche-Spiele---Der-Sieger-e3n90p6",
+    "guid": "a6015b9a-c242-417b-a884-ca191686d402",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.2 Tödliche Spiele - Die Spiele",
+    "description": "Diesen Mittwoch geht es in den zweiten Teil des ersten Buches der Hunger Games. Ab in die Spiele! \nAnders als die Tribute haben wir genügend zu essen und probieren, was einem vor einem frühmorgendlichen Lauf gut bekommt.\nGleichzeitig wird aber auch von Urlauben und der Alternativsportart Schwimmen berichtet. \nAlso schaltet gerne ein zu Kapitel und Kilometer! :)",
+    "pubDate": "Wed, 05 Aug 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-2-Tdliche-Spiele---Die-Spiele-e3muq1f",
+    "guid": "221bd098-f399-4bda-b5b2-355cd7e8adee",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.1 Tödliche Spiele - Die Tribute",
+    "description": "Zeit in der ersten Staffel in die Hunger Games einzutauchen! \nDiese Woche wird sich zeigen, ob Alexandras Vermutungen zu Tribute von Panem richtig, oder doch ein wenig abgedreht waren. \nAußerdem wird sich viel über warmes Wetter beklagt, als wären wir die Mädchen, die in Flammen stehen, dabei versuchen wir nur unser Halbmarathon Training abzuspulen.\nBegleitet uns gerne auf der Reise und trinkt ausreichend Elektrolyte!",
+    "pubDate": "Wed, 29 Jul 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-1-Tdliche-Spiele---Die-Tribute-e3mldjj",
+    "guid": "7fff7412-5cc5-4499-a065-dd2433e06294",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "1.0 Wer sind wir und was haben wir eigentlich vor?",
+    "description": "Hallo und herzlich Willkommen zu Kapitel & Kilometer!\nWir sind Alexandra und Tamara und laufen und lesen für unser Leben gerne. \nIn der Folge 0 stellen wir uns und unser Konzept ein bisschen besser vor und geben einen Ausblick auf die erste Staffel Kapitel & Kilometer.\nAlso schnürt euch eure Laufschuhe und begleitet uns bei unserem Buch- und Laufclub!",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/1-0-Wer-sind-wir-und-was-haben-wir-eigentlich-vor-e3md731",
+    "guid": "3f17740f-a401-48c6-bcce-e4a234c24b2c",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
+  },
+  {
+    "title": "Kapitel & Kilometer Trailer",
+    "description": "Was erwartet euch bei Kapitel & Kilometer?",
+    "pubDate": "Wed, 22 Jul 2026 11:08:20 GMT",
+    "link": "https://podcasters.spotify.com/pod/show/kapitel--kilometer5/episodes/Kapitel--Kilometer-Trailer-e3md76k",
+    "guid": "70240079-3197-4bf7-9394-e880eefa10de",
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "pocketcasts": ""
+    }
   }
-}
+]
