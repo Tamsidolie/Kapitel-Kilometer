@@ -16,13 +16,20 @@ async function loadEpisodes() {
       return;
     }
 
-    container.innerHTML = episodes.map((episode, index) => {
+    container.innerHTML = episodes.map(episode => {
       const description = stripHtml(episode.description || "");
+      const episodeNumber = getEpisodeNumber(episode.title);
+      const platformLinks = [
+        ["Spotify", episode.links?.spotify],
+        ["Apple Podcasts", episode.links?.apple],
+        ["Pocket Casts", episode.links?.pocketcasts],
+        ["Amazon Music", episode.links?.amazon]
+      ].filter(([, url]) => url);
 
       return `
         <article class="episode">
           <div class="episode-number">
-            ${String(index + 1).padStart(2, "0")}
+            ${String(episodeNumber).padStart(2, "0")}
           </div>
 
           <div>
@@ -35,18 +42,11 @@ async function loadEpisodes() {
           </div>
 
           <div class="episode-links">
-            <a class="platform-link" href="${episode.links?.spotify || episode.link}" target="_blank" rel="noopener">
-              Spotify
-            </a>
-            <a class="platform-link" href="${episode.links?.apple || episode.link}" target="_blank" rel="noopener">
-              Apple Podcasts
-            </a>
-            <a class="platform-link" href="${episode.links?.pocketcasts || episode.link}" target="_blank" rel="noopener">
-              Pocket Casts
-            </a>
-            <a class="platform-link" href="${episode.links?.amazon || episode.link}" target="_blank" rel="noopener">
-              Amazon Music
-            </a>
+            ${platformLinks.map(([label, url]) => `
+              <a class="platform-link" href="${escapeHtml(url)}" target="_blank" rel="noopener">
+                ${label}
+              </a>
+            `).join("")}
           </div>
         </article>
       `;
@@ -57,6 +57,11 @@ async function loadEpisodes() {
       "<p>Die Folgen konnten momentan nicht geladen werden.</p>";
     console.error(error);
   }
+}
+
+function getEpisodeNumber(title) {
+  const match = title.match(/^\d+\.(\d+)/);
+  return match ? Number(match[1]) : 0;
 }
 
 function stripHtml(html) {
