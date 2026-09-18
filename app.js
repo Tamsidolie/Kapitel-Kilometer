@@ -3,7 +3,7 @@ async function loadEpisodes() {
   const container = document.getElementById("episodes");
 
   try {
-    const response = await fetch("data/episodes.json");
+    const response = await fetch(`data/episodes.json?t=${Date.now()}`);
 
     if (!response.ok) {
       throw new Error("Episodes konnten nicht geladen werden.");
